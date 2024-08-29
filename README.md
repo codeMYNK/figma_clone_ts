@@ -77,7 +77,7 @@ Make sure you have the following installed on your machine:
 
 ```bash
 git clone https://github.com/codeMYNK/figma_clone_ts.git
-cd figma-ts
+# cd figma-ts
 ```
 
 **Installation**
